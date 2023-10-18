@@ -1,9 +1,18 @@
         @import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
-body { 
+
+  header {
+padding: 50px;
+font-style: italic;
+
+}
+
+        body { 
     background-color: rgb(5, 238, 199);
+    
        
     }
    *{
+    
     padding: 0px; 
     margin: 0px; 
     color: #080404;
@@ -25,5 +34,7 @@ body {
     color: rgb(255, 255, 255);
     text-decoration: none;
 
+}
+p { padding: 100px;
 }
    
