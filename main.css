@@ -1,19 +1,29 @@
-    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
 body { 
-    background-image:url(assistats/paper\ .jpg);
-    font-family: "Pacifico", serif;
-    size: 
+    background-color: rgb(5, 238, 199);
+       
+    }
+   *{
+    padding: 0px; 
+    margin: 0px; 
+    color: #080404;
+       }
+
+       ul { 
+       padding: 30px 0;
+        display: flex;
+        justify-content: space-around;
+        background-color: rgba(0, 0, 0, 0.5);
+        text-transform: capitalize;
+        list-style: none;
+       
+
     
-    
-    
+
+       }
+    a { 
+    color: rgb(255, 255, 255);
+    text-decoration: none;
 
 }
-   *{
-    padding: auto 60px; 
-    margin: 20px; color: #080404;
-    font: 40px;
-    
-    }
-    
-
    
