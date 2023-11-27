@@ -110,3 +110,32 @@ input[type="radio"]{
     background-color: white;
   }
 }
+.film {
+  height: 150px;
+  width: 100%;
+  background-color: black;
+  position: absolute;
+  flex-direction: row;
+display: flex;
+justify-content: space-evenly;
+  align-items: center;
+
+
+}
+.teeth {
+  height: 6%;
+  width: 100%;
+  position: absolute;
+  background-image: repeating-linear-gradient(90deg,white 0 4px, white 4px 10px, black 10px 40px);
+  
+}
+
+.film img {
+  
+  height: 70%;
+  aspect-ratio: 1;
+ border: 3px solid white;
+  
+ 
+
+}
